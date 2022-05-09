@@ -9,10 +9,10 @@
 <img src="https://telegra.ph/file/3079bbc16268df5d742f0.jpg">
 
 
-[![Open Source Love svg1](https://badges.frapsoft.com/os/v1/open-source.png?v=103)]( https://github.com/NitricXd/Portfolio)
-[![Stars](https://img.shields.io/github/stars/NitricXd/Portfolio?&style=flat-square)]( https://github.com/NitricXd/Portfolio/stargazers)
-[![Forks](https://img.shields.io/github/forks/NitricXd/Portfolio?&style=flat-square)]( https://github.com/NitricXd/Portfolio/network/members)
-![Repo Size](https://img.shields.io/github/repo-size/NitricXd/Portfolio?style=flat-square)
+[![Open Source Love svg1](https://badges.frapsoft.com/os/v1/open-source.png?v=103)]( https://github.com/NitricXd/NitricXd.github.io)
+[![Stars](https://img.shields.io/github/stars/NitricXd/NitricXd.github.io?&style=flat-square)]( https://github.com/NitricXd/NitricXd.github.io/stargazers)
+[![Forks](https://img.shields.io/github/forks/NitricXd/NitricXd.github.io?&style=flat-square)]( https://github.com/NitricXd/NitricXd.github.io/network/members)
+![Repo Size](https://img.shields.io/github/repo-size/NitricXd/NitricXd.github.io?style=flat-square)
 
 ## Connect with me:
 [<img align="left" color="blue" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
