@@ -1,8 +1,8 @@
-<h1 align="center">Portfolio Theme</h1>
+<h1 align="center">NitricXd.github.io Theme</h1>
 <p><b>A light weight , responsive portfolio theme by <a href="https://github.com/NitricXd"><𝗡𝗶𝘁𝗿𝗶𝗰'𝗫𝗱/></a></b></p>
 
-[![Demo](https://img.shields.io/badge/Live-Demo-blue?style=flat-square)](https://NitricXd.github.io/Portfolio/)
-[![Fork Now](https://img.shields.io/badge/Fork-Now-red?style=flat-square)](https://github.com/NitricXd/Portfolio/fork)
+[![Demo](https://img.shields.io/badge/Live-Demo-blue?style=flat-square)](https://NitricXd.github.io/NitricXd.github.io/)
+[![Fork Now](https://img.shields.io/badge/Fork-Now-red?style=flat-square)](https://github.com/NitricXd/NitricXd.github.io/fork)
 
 <p> Join our group for more templates and updates <a href="https://t.me/TheXCodeTeam"><b>𝗧𝗲𝗮𝗺 𝗫 𝗖𝗼𝗱𝗲</b></a></p>
 
