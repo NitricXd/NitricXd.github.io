@@ -1,18 +1,18 @@
 <h1 align="center">Portfolio Theme</h1>
-<p><b>A light weight , responsive portfolio theme by <a href="https://github.com/krishna6688">Krishna</a></b></p>
+<p><b>A light weight , responsive portfolio theme by <a href="https://github.com/NitricXd"><𝗡𝗶𝘁𝗿𝗶𝗰'𝗫𝗱/></a></b></p>
 
-[![Demo](https://img.shields.io/badge/Live-Demo-blue?style=flat-square)](https://krishna6688.github.io/Portfolio/)
-[![Fork Now](https://img.shields.io/badge/Fork-Now-red?style=flat-square)](https://github.com/krishna6688/Portfolio/fork)
+[![Demo](https://img.shields.io/badge/Live-Demo-blue?style=flat-square)](https://NitricXd.github.io/Portfolio/)
+[![Fork Now](https://img.shields.io/badge/Fork-Now-red?style=flat-square)](https://github.com/NitricXd/Portfolio/fork)
 
-<p> Join our group for more templates and updates <a href="https://t.me/web_zone"><b>@Web_Zone</b></a></p>
+<p> Join our group for more templates and updates <a href="https://t.me/TheXCodeTeam"><b>𝗧𝗲𝗮𝗺 𝗫 𝗖𝗼𝗱𝗲</b></a></p>
 
-<img src="http://telegra.ph//file/7f621c37c0a6b908a388d.jpg">
+<img src="https://telegra.ph/file/3079bbc16268df5d742f0.jpg">
 
 
-[![Open Source Love svg1](https://badges.frapsoft.com/os/v1/open-source.png?v=103)]( https://github.com/krishna6688/Portfolio)
-[![Stars](https://img.shields.io/github/stars/krishna6688/Portfolio?&style=flat-square)]( https://github.com/krishna6688/Portfolio/stargazers)
-[![Forks](https://img.shields.io/github/forks/krishna6688/Portfolio?&style=flat-square)]( https://github.com/krishna6688/Portfolio/network/members)
-![Repo Size](https://img.shields.io/github/repo-size/krishna6688/Portfolio?style=flat-square)
+[![Open Source Love svg1](https://badges.frapsoft.com/os/v1/open-source.png?v=103)]( https://github.com/NitricXd/Portfolio)
+[![Stars](https://img.shields.io/github/stars/NitricXd/Portfolio?&style=flat-square)]( https://github.com/NitricXd/Portfolio/stargazers)
+[![Forks](https://img.shields.io/github/forks/NitricXd/Portfolio?&style=flat-square)]( https://github.com/NitricXd/Portfolio/network/members)
+![Repo Size](https://img.shields.io/github/repo-size/NitricXd/Portfolio?style=flat-square)
 
 ## Connect with me:
 [<img align="left" color="blue" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
@@ -20,15 +20,15 @@
 <br />
 
 
-[website]: https://krishna6688.me
-[telegram]: https://t.me/hacker11000
+[website]: https://NitricXd.github.io
+[telegram]: https://t.me/XeD_NitriC
 
 # Credit
 Jason Tyler for toggle.
 
 # License
 
-[![License](https://img.shields.io/badge/Apache-2.0-red?style=flat-square)](https://github.com/krishna6688/Portfolio/blob/main/LICENSE)
+[![License](https://img.shields.io/badge/Apache-2.0-red?style=flat-square)](https://github.com/NitricXd/Portfolio/blob/main/LICENSE)
 
 # Hosting
 
